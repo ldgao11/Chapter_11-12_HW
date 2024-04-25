@@ -3,6 +3,7 @@
 ## What I did
 
 Illustrated my own example in LaTeX
+	
 	Illustrate headings, italicize and bold text, spacing, horizontal lines, and analysis with write up
 
 Illustrated my own example in Markdown
