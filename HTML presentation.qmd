@@ -1,0 +1,56 @@
+---
+title: "Obesity - HTML Presentation Example"
+author: "Lidan Gao"
+format: revealjs
+editor: visual
+---
+
+## Introduction of Obesity
+
+Overweight is a condition of excessive fat deposits.
+
+**Obesity** is a chronic complex disease defined by excessive fat deposits that can impair health. Obesity can lead to increased risk of type 2 diabetes and heart disease, it can affect bone health and reproduction, it increases the risk of certain cancers. Obesity influences the quality of living, such as sleeping or moving.
+
+## Diagnosis of Obesity
+
+The diagnosis of overweight and obesity is made by measuring people’s weight and height and by calculating the body mass index (BMI): weight (kg)/height² (m²). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity.
+
+The BMI categories for defining obesity vary by age and gender in infants, children and adolescents.
+
+## Adults
+
+For adults, WHO defines overweight and obesity as follows:
+
+-   overweight is a BMI greater than or equal to 25; and
+-   obesity is a BMI greater than or equal to 30.
+
+![](images/clipboard-185243174.png)
+
+## Adults
+
+| **BMI**      | **Classification**                 |
+|:-------------|:-----------------------------------|
+| 18.5 to 24.9 | Normal, or healthy, weight         |
+| 25 to 29.9   | Overweight                         |
+| 30+          | Obesity (including severe obesity) |
+| 40+          | Severe obesity                     |
+|              |                                    |
+
+For children, age needs to be considered when defining overweight and obesity.
+
+## Children under 5 years of age
+
+-   overweight is weight-for-height greater than 2 standard deviations above WHO Child Growth Standards median; and
+-   obesity is weight-for-height greater than 3 standard deviations above the WHO Child Growth Standards median.
+
+## Children aged between 5–19 years
+
+-   overweight is BMI-for-age greater than 1 standard deviation above the WHO Growth Reference median; and
+
+-   obesity is greater than 2 standard deviations above the WHO Growth Reference median.
+
+## References
+
+1.  [WHO](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#:~:text=Overview,the%20risk%20of%20certain%20cancers.)
+2.  [Adults Obesity Facts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisual.ly%2Fcommunity%2FInfographics%2Fhealth%2Fadult-obesity-facts&psig=AOvVaw2aW0YINZOpbjtZJIEhWiw1&ust=1714145469661000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj6-dLX3YUDFQAAAAAdAAAAABAE)
+3.  [NIH Overweight & Obesity Statistics](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity)

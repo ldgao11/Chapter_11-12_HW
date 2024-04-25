@@ -1,0 +1,68 @@
+---
+title: "Chapter_11-12_HW"
+author: "Lidan Gao"
+format: pdf
+editor: visual
+---
+
+Homework
+Due: April 25, 2024
+
+## LaTeX Examples
+
+```{=tex}
+%headings
+
+%italicize and bold text
+
+\emph{italicized text}\\
+\textbf{bold text} \\
+
+%spacing
+
+Verticle spacing \\
+\vspace{1cm}
+The is 1 cm. \\
+\vspace{5cm}
+The is 5 cm. \\
+
+Horizontal spacing. \\ 
+This is 1 cm.\hspace{1cm}This is 5 cm.\hspace{5cm}End\\
+
+%horizontal lines
+Below is a horizontal line.\\
+\hrule
+
+
+```
+
+## Markdown Examples
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+Below is a horizontal line.
+
+------------------------------------------------------------------------
+
+*italicize text*
+
+**bold text**
+
+## Presentation PowerPoint
+
+see the separated file 
+
+## Presentation HTML online
+
+see the separated file 
+
+
+## Check out Quarto Manuscripts website.
+
+Upload all documents: Quarto documents, HTML link, Power Point, and .README, to Github and on HuskyCT.
+
+[Github link](https://github.com/ldgao11/Chapter_11-12_HW.git)
